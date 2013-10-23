@@ -1,0 +1,27 @@
+
+127.0.0.1:/home/roller mounted on /mnt/nfsone:
+
+   op/s		rpc bklog
+   0.02 	   0.00
+read:             ops/s		   kB/s		  kB/op		retrans		avg RTT (ms)	avg exe (ms)
+		  0.000 	  0.000 	  0.000        0 (0.0%) 	  0.000 	  0.000
+write:            ops/s		   kB/s		  kB/op		retrans		avg RTT (ms)	avg exe (ms)
+		  0.000 	  0.000 	  0.000        0 (0.0%) 	  0.000 	  0.000
+
+127.0.0.1:/home/roller mounted on /mnt/nfsone:
+
+   op/s		rpc bklog
+   0.00 	   0.00
+read:             ops/s		   kB/s		  kB/op		retrans		avg RTT (ms)	avg exe (ms)
+		  0.000 	  0.000 	  0.000        0 (0.0%) 	  0.000 	  0.000
+write:            ops/s		   kB/s		  kB/op		retrans		avg RTT (ms)	avg exe (ms)
+		  0.000 	  0.000 	  0.000        0 (0.0%) 	  0.000 	  0.000
+
+127.0.0.1:/home/roller mounted on /mnt/nfsone:
+
+   op/s		rpc bklog
+   0.00 	   0.00
+read:             ops/s		   kB/s		  kB/op		retrans		avg RTT (ms)	avg exe (ms)
+		  0.000 	  0.000 	  0.000        0 (0.0%) 	  0.000 	  0.000
+write:            ops/s		   kB/s		  kB/op		retrans		avg RTT (ms)	avg exe (ms)
+		  0.000 	  0.000 	  0.000        0 (0.0%) 	  0.000 	  0.000
